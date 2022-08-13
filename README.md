@@ -23,3 +23,8 @@ run_cmake_win32.bat
 run_cmake_x64.bat
 
 Notice: Change the "CMAKE_HOME=C:\Program Files\CMake" in those files if your cmake install different place. 
+
+
+Mac Xcode script: 
+1) go to build folder.
+2) Run ./run_cmake_macosx_x86_64.sh
